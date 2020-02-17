@@ -1,0 +1,14 @@
+<annotation>
+  <folder>input</folder>
+  <filename>pothole (23).jpg</filename>
+  <path>C:\Users\mayan\Yolo-Training-GoogleColab-master\data_converstion\main\input\pothole (23).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>534</width>
+    <height>401</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>

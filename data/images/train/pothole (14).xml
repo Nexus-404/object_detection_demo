@@ -1,0 +1,50 @@
+<annotation>
+  <folder>input</folder>
+  <filename>pothole (14).jpg</filename>
+  <path>C:\Users\mayan\Yolo-Training-GoogleColab-master\data_converstion\main\input\pothole (14).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>267</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>114</xmin>
+      <ymin>107</ymin>
+      <xmax>213</xmax>
+      <ymax>142</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>146</ymin>
+      <xmax>242</xmax>
+      <ymax>177</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>180</ymin>
+      <xmax>277</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+</annotation>
